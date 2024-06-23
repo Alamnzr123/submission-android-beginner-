@@ -1,0 +1,2 @@
+include ':app', ':glide-4.8.0', ':gradle-3.6.0-alpha01'
+rootProject.name='Dicoding-AndroidPemula'
